@@ -4,7 +4,7 @@ A responsive admin dashboard built with HTML and CSS as part of [The Odin Projec
 
 ## Preview
 
-![Admin Dashboard Preview](./images/Admin_Dashboard.jpg)
+![Admin Dashboard Preview](./images/Admin_Dashboard.jpeg)
 
 ## Live Demo
 
